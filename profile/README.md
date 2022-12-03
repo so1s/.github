@@ -3,11 +3,13 @@
 ☸️**Kubernetes 기반 MLOps 서빙 프레임워크**☸️  
 🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙
 
+
 |이지호|임성빈|신일섭|
 |:--:|:--:|:---:|
 |<a href="https://github.com/DPS0340"><img width="160px" src="https://avatars.githubusercontent.com/u/32592965?v=4" /></a> | <a href="https://github.com/NEM-NE"><img width="160px" src="https://avatars.githubusercontent.com/u/55152516?v=4" /></a> | <a href="https://github.com/shinilseop"><img width="160px" src="https://avatars.githubusercontent.com/u/76181126?v=4" /></a>|
 |[@DPS0340](https://github.com/DPS0340) | [@NEM-NE](https://github.com/NEM-NE) | [@shinilseop](https://github.com/shinilseop)|
 | FE, BE, DevOps | FE, DevOps, Infra | BE, ML, MLOps |
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-frontend&theme=radical)](https://github.com/so1s/so1s-frontend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-backend&theme=radical)](https://github.com/so1s/so1s-backend)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-deploy&theme=radical)](https://github.com/so1s/so1s-deploy) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-infra&theme=radical)](https://github.com/so1s/so1s-infra)  
@@ -15,7 +17,8 @@
 
 ## 프로젝트 소개
 
-<img width="50%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />  
+<img width="50%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
+
 [프로젝트 소개 Notion 페이지](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)
 
 ## Presentations
