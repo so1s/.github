@@ -1,6 +1,6 @@
-## Team So1s
+## So1s
 
-**Kubernetes 기반 MLOps 서빙 프레임워크**
+☸️**Kubernetes 기반 MLOps 서빙 프레임워크**☸️
 
 |이지호|임성빈|신일섭|
 |:--:|:--:|:---:|
