@@ -1,7 +1,8 @@
 ## (Team) So1s
 
 ☸️**Kubernetes 기반 ML 모델 빌드 & 서빙 매니지먼트 플랫폼**☸️  
-🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙
+🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙  
+🤫**1은 묵음입니다**🤫
 
 <br>
 
@@ -23,11 +24,11 @@
 
 <img width="50%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
 
-[프로젝트 소개 Notion 페이지 보러 가기](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)
+📖[프로젝트 소개 Notion 페이지](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)📖
 
 ## Presentations
 
-[최종 발표 슬라이드 보러 가기](https://docs.google.com/presentation/d/11jUsE_isiw8V15rk1Q7CLY6Bld6QvcrzXzzvFS02Qj4/edit?usp=sharing)
+📺[최종 발표 슬라이드](https://docs.google.com/presentation/d/11jUsE_isiw8V15rk1Q7CLY6Bld6QvcrzXzzvFS02Qj4/edit?usp=sharing)📺
 
 ## 기술 스택
 
@@ -44,4 +45,4 @@
 
 K8s같은 네이밍 컨벤션을 따르는, 추가적인 의미를 가지고 있지 않은 팀명 겸 프로젝트명입니다.
 
-영단어 source와 동일하게, `/sɔːrs/`로 읽습니다.
+영단어 source와 동일하게, `/sɔːrs/`로 읽습니다. 1은 묵음입니다.
