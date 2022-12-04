@@ -8,7 +8,7 @@
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-deploy&theme=radical&a=b)](https://github.com/so1s/so1s-deploy) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-infra&theme=radical&a=b)](https://github.com/so1s/so1s-infra)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-deploy&theme=radical&b=c)](https://github.com/so1s/so1s-deploy) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-infra&theme=radical&a=b)](https://github.com/so1s/so1s-infra)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-frontend&theme=radical&a=b)](https://github.com/so1s/so1s-frontend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-backend&theme=radical&a=b)](https://github.com/so1s/so1s-backend)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-build-files&theme=radical&a=b)](https://github.com/so1s/so1s-build-files)
 
