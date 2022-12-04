@@ -22,7 +22,7 @@
 
 ## 프로젝트 소개
 
-<img width="50%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
+<img width="70%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
 
 📖[프로젝트 소개 Notion 페이지](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)📖
 
@@ -32,7 +32,7 @@
 
 ## 기술 스택
 
-<img width="50%" src="https://user-images.githubusercontent.com/32592965/205466566-7ee2a08f-b34f-4878-b75a-d9a6df495d47.png" />
+<img width="70%" src="https://user-images.githubusercontent.com/32592965/205466566-7ee2a08f-b34f-4878-b75a-d9a6df495d47.png" />
 
 **Infra**
 
