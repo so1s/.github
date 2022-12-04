@@ -1,5 +1,7 @@
 ## (Team) So1s
 
+![GitHub](https://img.shields.io/github/license/so1s/backend?color=blue&style=for-the-badge)
+
 ☸️**Kubernetes 기반 ML 모델 빌드 & 서빙 매니지먼트 플랫폼**☸️  
 🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙  
 🤫**1은 묵음입니다**🤫
