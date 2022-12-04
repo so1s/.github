@@ -41,4 +41,4 @@
 - Terraform
 - AWS EKS
 - AWS S3
-- Locus
+- Locust
