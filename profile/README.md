@@ -22,11 +22,11 @@
 
 <br>
 
+> 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
+
 ## 프로젝트 소개
 
 <img width="70%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
-
-> 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
 
 📖[**프로젝트 소개 Notion 페이지**](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)📖
 
