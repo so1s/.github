@@ -21,6 +21,8 @@
 
 > 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
 
+> This work was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Ministry of Science and ICT(MSIT) (IITP-2022-SW Maestro training course).
+
 ## 프로젝트 소개
 
 <img width="70%" src="https://user-images.githubusercontent.com/32592965/205466568-a27477d3-26fb-4623-8018-14e58de0acce.png" />
