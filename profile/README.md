@@ -18,7 +18,6 @@
 |:--:|:--:|:---:|
 |<a href="https://github.com/DPS0340"><img width="160px" src="https://avatars.githubusercontent.com/u/32592965?v=4" /></a> | <a href="https://github.com/NEM-NE"><img width="160px" src="https://avatars.githubusercontent.com/u/55152516?v=4" /></a> | <a href="https://github.com/shinilseop"><img width="160px" src="https://avatars.githubusercontent.com/u/76181126?v=4" /></a>|
 |[DPS0340](https://github.com/DPS0340) | [NEM-NE](https://github.com/NEM-NE) | [shinilseop](https://github.com/shinilseop)|
-| FE, BE, DevOps | FE, DevOps, Infra | BE, ML, MLOps |
 
 > 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
 
