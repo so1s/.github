@@ -1,4 +1,6 @@
-## (Team) So1s
+<div align="center">
+
+# (Team) So1s
 
 <a href="https://github.com/so1s/so1s-backend/blob/main/LICENSE"><img src="https://img.shields.io/github/license/so1s/backend?color=blue&style=for-the-badge" /></a> <a href="https://github.com/so1s/so1s-deploy/releases"><img src="https://img.shields.io/github/v/release/so1s/deploy?style=for-the-badge" /></a>
 
