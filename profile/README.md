@@ -42,4 +42,6 @@
 - Terraform
 - AWS EKS
 - AWS S3
+
+**Load Testing**
 - Locust
