@@ -8,8 +8,6 @@
 🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙  
 🤫**1은 묵음이야**🤫
 
-</div>
-
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-deploy&theme=radical&1=1)](https://github.com/so1s/so1s-deploy) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-infra&theme=radical&1=1)](https://github.com/so1s/so1s-infra)  
@@ -22,6 +20,8 @@
 |:--:|:--:|:---:|
 |<a href="https://github.com/DPS0340"><img width="160px" src="https://avatars.githubusercontent.com/u/32592965?v=4" /></a> | <a href="https://github.com/NEM-NE"><img width="160px" src="https://avatars.githubusercontent.com/u/55152516?v=4" /></a> | <a href="https://github.com/shinilseop"><img width="160px" src="https://avatars.githubusercontent.com/u/76181126?v=4" /></a>|
 |[DPS0340](https://github.com/DPS0340) | [NEM-NE](https://github.com/NEM-NE) | [shinilseop](https://github.com/shinilseop)|
+
+</div>
 
 > 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
 
