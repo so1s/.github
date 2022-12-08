@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/so1s/.github/main/static/logo.png" alt="So1s Logo" height="250px" />
+
 # (Team) So1s
 
 <a href="https://github.com/so1s/so1s-backend/blob/main/LICENSE"><img src="https://img.shields.io/github/license/so1s/backend?color=blue&style=for-the-badge" /></a> <a href="https://github.com/so1s/so1s-deploy/releases"><img src="https://img.shields.io/github/v/release/so1s/deploy?style=for-the-badge" /></a>
