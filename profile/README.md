@@ -39,15 +39,8 @@
 
 📺[**최종 발표 슬라이드**](https://docs.google.com/presentation/d/11jUsE_isiw8V15rk1Q7CLY6Bld6QvcrzXzzvFS02Qj4/edit?usp=sharing)📺
 
-## 기술 스택
+## 시스템 아키텍처
 
 <img width="70%" src="https://user-images.githubusercontent.com/32592965/205466566-7ee2a08f-b34f-4878-b75a-d9a6df495d47.png" />
 
-**Infra**
-
-- Terraform
-- AWS EKS
-- AWS S3
-
-**Load Testing**
-- Locust
+> 컴포넌트별 세부 사항은 개별 레포를 확인해주세요!
