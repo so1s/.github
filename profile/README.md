@@ -33,7 +33,7 @@
 
 📖[**프로젝트 소개 Notion 페이지**](https://dynamic-currant-6c5.notion.site/ML-e731a31b02ef498ba384df86a5e8386b)📖
 
-## Presentations
+## 발표 자료
 
 📺[**최종 발표 슬라이드**](https://docs.google.com/presentation/d/11jUsE_isiw8V15rk1Q7CLY6Bld6QvcrzXzzvFS02Qj4/edit?usp=sharing)📺
 
