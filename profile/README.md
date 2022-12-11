@@ -23,8 +23,6 @@
 |<a href="https://github.com/DPS0340"><img width="160px" src="https://avatars.githubusercontent.com/u/32592965?v=4" /></a> | <a href="https://github.com/NEM-NE"><img width="160px" src="https://avatars.githubusercontent.com/u/55152516?v=4" /></a> | <a href="https://github.com/shinilseop"><img width="160px" src="https://avatars.githubusercontent.com/u/76181126?v=4" /></a>|
 |[DPS0340](https://github.com/DPS0340) | [NEM-NE](https://github.com/NEM-NE) | [shinilseop](https://github.com/shinilseop)|
 
-</div>
-
 > 이 성과는 2022년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임. (IITP-2022-SW마에스트로과정)
 
 > This work was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Ministry of Science and ICT(MSIT) (IITP-2022-SW Maestro training course).
@@ -44,3 +42,5 @@
 <img width="70%" src="https://user-images.githubusercontent.com/32592965/205466566-7ee2a08f-b34f-4878-b75a-d9a6df495d47.png" />
 
 > 컴포넌트별 주요 기능과 세부 사항은 상단의 개별 레포를 확인해주세요!
+
+</div>
