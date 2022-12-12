@@ -4,7 +4,7 @@
 
 # (Team) So1s
 
-<a href="https://github.com/so1s/so1s-backend/blob/main/LICENSE"><img src="https://img.shields.io/github/license/so1s/backend?color=blue&style=for-the-badge" /></a> <a href="https://github.com/so1s/so1s-deploy/releases"><img src="https://img.shields.io/github/v/release/so1s/deploy?style=for-the-badge" /></a>
+<a href="https://github.com/so1s/so1s-deploy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/so1s/deploy?color=blue&style=for-the-badge" /></a> <a href="https://github.com/so1s/so1s-deploy/releases"><img src="https://img.shields.io/github/v/release/so1s/deploy?style=for-the-badge" /></a>
 
 ☸️**Kubernetes 기반 ML 모델 빌드 & 서빙 프레임워크**☸️  
 🆙**업스테이지 주관 소프트웨어 마에스트로 벤처 프로젝트**🆙  
