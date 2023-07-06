@@ -41,6 +41,6 @@
 
 <img width="70%" src="https://user-images.githubusercontent.com/32592965/205466566-7ee2a08f-b34f-4878-b75a-d9a6df495d47.png" />
 
-> 컴포넌트별 주요 기능과 세부 사항은 상단의 개별 레포를 확인해주세요!
+> 컴포넌트별 주요 기능과 세부 사항은 상단의 개별 레포를 확인해 주세요!
 
 </div>
